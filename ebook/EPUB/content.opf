@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package version="3.0" xmlns="http://www.idpf.org/2007/opf" xml:lang="it-IT" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="epub-id-1">urn:uuid:14245c2c-d3aa-4db6-9989-85f38a70c2ab</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:31ad57ec-a3f1-455b-812e-782bb5cfbd76</dc:identifier>
     <dc:title id="epub-title-1">Guida per genitori di bambini con DSA</dc:title>
     <dc:date id="epub-date">2024-02-10</dc:date>
     <dc:language>it-IT</dc:language>
     <dc:creator id="epub-creator-1">Alessio Pareto</dc:creator>
     <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
     <dc:description>Una guida completa per supportare i genitori di bambini con DSA.</dc:description>
-    <meta property="dcterms:modified">2025-02-11T07:06:07Z</meta>
+    <meta property="dcterms:modified">2025-02-11T09:46:04Z</meta>
     <meta property="schema:accessMode">textual</meta>
     <meta property="schema:accessModeSufficient">textual</meta>
     <meta property="schema:accessibilityFeature">alternativeText</meta>
