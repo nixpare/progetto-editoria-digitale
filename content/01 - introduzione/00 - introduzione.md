@@ -1,4 +1,4 @@
-# Capitolo 1: Introduzione
+# Introduzione
 
 Benvenuti in questa guida dedicata ai genitori di bambini e ragazzi con Disturbi Specifici dell’Apprendimento (DSA). In questo capitolo scopriremo:
 

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:14245c2c-d3aa-4db6-9989-85f38a70c2ab" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text>Guida per genitori di bambini con DSA</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Guida per genitori di bambini con DSA</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Introduzione</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#introduzione" />
+      <navPoint id="navPoint-2">
+        <navLabel>
+          <text>Cosa significa DSA</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#cosa-significa-dsa" />
+      </navPoint>
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>Creare un ambiente inclusivo</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#creare-un-ambiente-inclusivo" />
+        <navPoint id="navPoint-4">
+          <navLabel>
+            <text>Elementi chiave per l’ambiente inclusivo</text>
+          </navLabel>
+          <content src="text/ch001.xhtml#elementi-chiave-per-lambiente-inclusivo" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>Risorse utili</text>
+        </navLabel>
+        <content src="text/ch001.xhtml#risorse-utili" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Strumenti per lo studio</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#strumenti-per-lo-studio" />
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>Libri di Testo</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#libri-di-testo" />
+        <navPoint id="navPoint-8">
+          <navLabel>
+            <text>LibroAID</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#libroaid" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Dislessia</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#dislessia" />
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>Come affrontare le difficoltà</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#come-affrontare-le-difficoltà" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>Possibili opportunità</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#possibili-opportunità" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>Disortografia</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#disortografia" />
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>Come affrontare le difficoltà</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#come-affrontare-le-difficoltà-1" />
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>Possibili opportunità</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#possibili-opportunità-1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Disgrafia</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#disgrafia" />
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Come affrontare le difficoltà</text>
+        </navLabel>
+        <content src="text/ch005.xhtml#come-affrontare-le-difficoltà-2" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>Possibili opportunità</text>
+        </navLabel>
+        <content src="text/ch005.xhtml#possibili-opportunità-2" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>Discalculia</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#discalculia" />
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Come affrontare le difficoltà</text>
+        </navLabel>
+        <content src="text/ch006.xhtml#come-affrontare-le-difficoltà-3" />
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text>Possibili opportunità</text>
+        </navLabel>
+        <content src="text/ch006.xhtml#possibili-opportunità-3" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>Bibliografia</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#bibliografia" />
+    </navPoint>
+  </navMap>
+</ncx>

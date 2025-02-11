@@ -1,0 +1,78 @@
+@font-face {
+	font-family: 'OpenDyslexic';
+	src: url('../fonts/OpenDyslexic3-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	src: url('../fonts/OpenDyslexic3-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+body {
+	font-family: 'OpenDyslexic', sans-serif;
+	font-size: 1.0em;
+	line-height: 1.2;
+}
+
+strong {
+	color: rgb(12, 42, 84);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'OpenDyslexic', sans-serif;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	color: rgb(0, 88, 212);
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+img {
+	display: block;
+	margin: 1em auto;
+	max-height: 30vh;
+}
+
+blockquote {
+	position: relative;
+}
+
+blockquote:before {
+	content: '';
+	width: 5px;
+	position: absolute;
+	left: -10px;
+	top: 0;
+	bottom: 0;
+	background-color: rgb(50, 122, 224);
+}
+
+@media (prefers-color-scheme: dark) {
+	strong {
+		color: rgb(240, 188, 128);
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		color: rgb(255, 159, 48);
+	}
+
+	blockquote:before {
+		color: rgb(255, 190, 116);
+	}
+}
