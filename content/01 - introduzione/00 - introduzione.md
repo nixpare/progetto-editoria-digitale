@@ -23,7 +23,7 @@ I DSA sono classificati in base alla **difficoltà specifica** che comportano. S
 
 Un ambiente familiare favorevole alla crescita e allo sviluppo delle competenze linguistiche può aiutare i bambini con DSA a sentirsi più sicuri e motivati.
 
-![](./media/reading.png "Ragazzo che legge con genitore")
+![Ragazzo che legge con genitore](./media/reading.png "Ragazzo che legge con genitore")
 
 > **Nota**: Ricordiamo che ogni bambino è unico. Gli esempi e i suggerimenti di questa guida vanno sempre adattati alla singola situazione.
 
